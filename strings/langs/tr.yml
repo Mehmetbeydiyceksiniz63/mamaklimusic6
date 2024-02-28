@@ -143,7 +143,7 @@ play_5 : "»  SES DOSYASI İŞLENEMEZ.\n\nSES DOSYASI BOYUTU TANIMLANAN SINIRDAN
 play_6 : "» AKIŞIN {0} DAN UZUN OLARAK {1) ÜZERİNDE OYNATILMASINA İZİN VERİLMEZ"
 play_7 : "» GEÇERLİ BİR VİDEO DOSYASI UZANTISI DEĞİLDİR.\n\n<b>DESTEKLENEN UZANTILAR:</b>{0) "
 play_8 : "»  VİDEO DOSYASI BOYUTU 1GIB'DAN DAHA AZ OLMALIDIR."
-play_9 : ""<b><U>YOUTUBE OYNATMA LİSTESİ ÖZELLİĞİ</b></U>\n\nŞUNU SEÇİN YOUTUBE OYNATMA LİSTESİNİN TAMAMINI OYNAMAK İSTEDİĞİNİZ MOD."
+play_9 : "<b><U>YOUTUBE OYNATMA LİSTESİ ÖZELLİĞİ</b></U>\n\nŞUNU SEÇİN YOUTUBE OYNATMA LİSTESİNİN TAMAMINI OYNAMAK İSTEDİĞİNİZ MOD."
 play_10 : "<b>BAŞLIK :</b> {0}\n<b>SÜRE :</b> {1} DAKİKA"
 play_11 : "<u><b>{0} sᴘᴏᴛɪғʏ ᴘʟᴀʏᴇʀ</b></u>\n\n<b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {1}"
 play_12 : "<u><b>{0} ᴀᴘᴘʟᴇ ᴘʟᴀʏᴇʀ</b></u>\n\n<b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {1}"
