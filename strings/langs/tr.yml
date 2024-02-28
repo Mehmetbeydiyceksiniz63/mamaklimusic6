@@ -92,7 +92,7 @@ start_5 : "<b> KARA LİSTEDE SOHBET</b>\n\nBU SOHBET {0} DATABASE'DE KARA LİSTE
 start_6 : "😲 <b>PARÇA AYRINTILARI</b> 😲\n\n📌 <b>BAŞLIK :</b> {0}\n\n⏳ <b>SÜRE :</b> {1} DAKİKA\n👀 <b>GÖRÜNTÜLENME :</b> <code>{2}</code>\n⏰ <b>YAYINLANDI :</b> {3}\n📎 <b>KANAL :</b> <a href={4}>{5}</a>\n\n<u><b>🥀 TARAFINDAN ARANDI {6}</b></u>"
 
 help_1 : "YARDIM ALMAK İSTEDİĞİNİZ KATEGORİYİ SEÇİN. \nŞÜPHELERİNİZİ <a href={0}>DESTEK SOHBETİ</a>'NDE SORUN\n\nTÜMÜ KOMUTLAR İLE KULLANILABİLİR: <Code>/</code>"
-help_2 : ""YARDIM MENÜSÜNÜZE ULAŞMAK İÇİN AŞAĞIDAKİ DÜĞMEYE TIKLAYIN."
+help_2 : "YARDIM MENÜSÜNÜZE ULAŞMAK İÇİN AŞAĞIDAKİ DÜĞMEYE TIKLAYIN."
 
 lang 1:"» LÜTFEN AYARLAMAK İSTEDİĞİNİZ DİLİ SEÇİN BU GRUBUN VARSAYILAN DİLİ:"
 lang_2:"DİL BAŞARIYLA DEĞİŞTİRİLDİ."
