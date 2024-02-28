@@ -94,8 +94,8 @@ start_6 : "😲 <b>PARÇA AYRINTILARI</b> 😲\n\n📌 <b>BAŞLIK :</b> {0}\n\n�
 help_1 : "YARDIM ALMAK İSTEDİĞİNİZ KATEGORİYİ SEÇİN. \nŞÜPHELERİNİZİ <a href={0}>DESTEK SOHBETİ</a>'NDE SORUN\n\nTÜMÜ KOMUTLAR İLE KULLANILABİLİR: <Code>/</code>"
 help_2 : "YARDIM MENÜSÜNÜZE ULAŞMAK İÇİN AŞAĞIDAKİ DÜĞMEYE TIKLAYIN."
 
-lang_1:"» LÜTFEN AYARLAMAK İSTEDİĞİNİZ DİLİ SEÇİN BU GRUBUN VARSAYILAN DİLİ:"
-lang_2:"DİL BAŞARIYLA DEĞİŞTİRİLDİ."
+lang_1: "» LÜTFEN AYARLAMAK İSTEDİĞİNİZ DİLİ SEÇİN BU GRUBUN VARSAYILAN DİLİ:"
+lang_2: "DİL BAŞARIYLA DEĞİŞTİRİLDİ."
 lang_3: "DİL DEĞİŞTİRİLMEDİ."
 lang_4: "ZATEN AYNI DİLİ KONUŞUYORSUNUZ."
 
