@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mamaklibirininruhu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/mamaklimekani")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mehmetarchive")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/oznurdestekekibi")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/yeni-music-01-21"
+    "START_IMG_URL", "https://telegra.ph/oznurmusictr-03-07"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/yeni-music-01-21"
+    "PING_IMG_URL", "https://telegra.ph/oznurmusictr-03-07"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-STATS_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/yeni-music-01-21"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/yeni-music-01-21"
-STREAM_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-YOUTUBE_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/yeni-music-01-21"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/yeni-music-01-21"
+PLAYLIST_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
+STATS_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/oznurmusictr-03-07"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/oznurmusictr-03-07"
+STREAM_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
+YOUTUBE_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/oznurmusictr-03-07"
 
 
 def time_to_seconds(time):
